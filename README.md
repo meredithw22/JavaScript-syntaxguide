@@ -71,5 +71,5 @@ const trousers = "cotton" : string data type** strings must be contained by " "/
 ```
 |**Objects**|
 Objects are a more complete data storage system. Objects can contain collections of different data types.
-
+ 
 
