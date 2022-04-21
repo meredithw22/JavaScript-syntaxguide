@@ -105,5 +105,9 @@ once called the function can be console.logged Functions can also contain parame
 ```
 function test(1, 2, 3)
 ```
-
+**Boolean Statements**
+Boolean statements are true and false. Logical operators and is often used with if statements to give conditions true or false. Can be represented as:
+```
+|| = an OR statement.
+```
 
